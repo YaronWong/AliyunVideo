@@ -8,7 +8,6 @@
     android:orientation="vertical">
 
     <FrameLayout
-        android:id="@+id/effect_sound_image"
         android:layout_width="@dimen/alivc_common_size_group_50"
         android:layout_height="@dimen/alivc_common_size_group_50">
         <ImageView

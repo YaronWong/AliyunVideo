@@ -22,7 +22,6 @@
             android:textSize="@dimen/alivc_common_font_14" />
 
         <RadioGroup
-            android:id="@+id/speed_group"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/alivc_common_margin_60"

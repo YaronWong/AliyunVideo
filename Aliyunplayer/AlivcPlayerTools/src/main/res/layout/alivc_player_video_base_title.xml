@@ -11,7 +11,6 @@
         android:layout_width="@dimen/alivc_common_height_group_40"
         android:layout_height="match_parent">
         <ImageView
-            android:id="@+id/alivc_base_iv_left_back"
             android:layout_width="@dimen/alivc_common_height_group_12"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"

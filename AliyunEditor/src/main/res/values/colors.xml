@@ -57,7 +57,6 @@
 
     <color name="alivc_edit_defalut_primary_color">#ed4e82</color>
     <color name="alivc_edit_defalut_primary_color_alpha30">#4dff5454</color>
-    <color name="alivc_edit_download_progress">#80ff5454</color>
 
     <color name="alivc_edit_font_tab_color">#6E768B</color>
 
@@ -71,5 +70,4 @@
     <color name="alivc_edit_animation_filter_color4">#E6F35C4B</color>
     <color name="alivc_edit_animation_filter_color5">#E6798ECD</color>
 
-    <color name="alivc_edit_font_gray_unselected">#606E7C</color>
 </resources>

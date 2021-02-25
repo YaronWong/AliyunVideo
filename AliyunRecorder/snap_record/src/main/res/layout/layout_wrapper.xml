@@ -13,7 +13,6 @@
         android:src="@drawable/alivc_record_focus"
         />
     <LinearLayout
-        android:id="@+id/ll_seek_layout"
         android:layout_toRightOf="@id/iv_focus"
         android:orientation="vertical"
         android:layout_width="wrap_content"

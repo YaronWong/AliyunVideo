@@ -1,11 +1,4 @@
 <resources>
-    <string name="edit_nav_edit">Edit</string>
-    <string name="edit_nav_save_and_share">Local／Share To></string>
-    <string name="music_origin">Original</string>
-    <string name="my_music">Music</string>
-    <string name="local_music">Local Music</string>
-    <string name="timeline_curr_time">%1$02d:%2$02d</string>
-    <string name="empty_music">Original</string>
     <string name="alivc_mix_record_waring_content">Mix record video cannot add background music</string>
     <!--effect menu-->
     <string name="alivc_editor_effect_filter">Filter</string>
@@ -64,19 +57,10 @@
     <string name="alivc_editor_dialog_sound_robot">Robot</string>
     <string name="alivc_editor_dialog_sound_devil">Devil</string>
     <string name="alivc_editor_dialog_sound_minions">Minions</string>
-    <string name="alivc_editor_dialog_sound_new_robot">New Robot</string>
-    <string name="alivc_editor_dialog_sound_new_lolita">New Child</string>
-    <string name="alivc_editor_dialog_sound_new_uncle">New Adult</string>
-    <string name="alivc_editor_dialog_sound_howl">Howl</string>
     <string name="alivc_editor_dialog_sound_dialect">Dialect</string>
 
     <string name="alivc_editor_dialog_animate_tittle">Filter</string>
     <string name="alivc_editor_dialog_animate_revoke">Revoke</string>
-    <string name="alivc_editor_dialog_animate_phantom">幻影</string>
-    <string name="alivc_editor_dialog_animate_ghosting">重影</string>
-    <string name="alivc_editor_dialog_animate_science_fiction">科幻</string>
-    <string name="alivc_editor_dialog_animate_jitter">抖动</string>
-    <string name="alivc_editor_dialog_animate_blur">朦胧</string>
     <string name="alivc_editor_dialog_animate_tip_applay">Hold down to add effect</string>
 
     <string name="alivc_editor_dialog_cover_tip_applay">Select Album Art</string>
@@ -153,40 +137,9 @@
     <string name="alivc_editor_effect_text_color">Fill</string>
     <!--end-->
     <!--media select-->
-    <string name="alivc_editor_media_tip_no_permission">No permission</string>
 
     <!--end-->
 
-
-    <string name="alivc_svideo_grace">Grace</string>
-    <string name="alivc_svideo_halo">Halo</string>
-    <string name="alivc_svideo_memory">Memory</string>
-    <string name="alivc_svideo_sunday">Sunday</string>
-    <string name="alivc_svideo_bright">Bright</string>
-
-    <string name="alivc_svideo_pop">Pop</string>
-    <string name="alivc_svideo_hot_desert">Hot Desert</string>
-    <string name="alivc_svideo_beach">Beach</string>
-    <string name="alivc_svideo_ocean">Ocean</string>
-    <string name="alivc_svideo_gray">Gray</string>
-    <string name="alivc_svideo_yellow">Yellow</string>
-    <string name="alivc_svideo_brown">Brown</string>
-    <string name="alivc_svideo_pink">Pink</string>
-    <string name="alivc_svideo_sketch">Sketch</string>
-    <string name="alivc_svideo_ruby">Ruby</string>
-    <string name="alivc_svideo_classic">Classic</string>
-    <string name="alivc_svideo_film">Film</string>
-    <string name="alivc_svideo_blues">Blues</string>
-    <string name="alivc_svideo_haze">Haze</string>
-    <string name="alivc_svideo_charming">Charming</string>
-    <string name="alivc_svideo_summertime">Summertime</string>
-    <string name="alivc_svideo_pear">Pear</string>
-    <string name="alivc_svideo_mosaic">Mosaic</string>
-    <string name="alivc_svideo_fisheye">Fisheye</string>
-    <string name="alivc_svideo_fresh">Fresh</string>
-    <string name="alivc_svideo_wheat">Wheat</string>
-    <string name="alivc_svideo_black_white">Black &amp; White</string>
-    <string name="alivc_svideo_blurry">Blurry</string>
 
 </resources>
 

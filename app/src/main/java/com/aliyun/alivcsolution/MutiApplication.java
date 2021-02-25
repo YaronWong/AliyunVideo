@@ -24,7 +24,8 @@ public class MutiApplication extends Application {
     /**
      * 友盟数据统计key值
      */
-    private static final String UM_APP_KEY = "5c6e4e6cb465f5ff47001s0e";
+//    private static final String UM_APP_KEY = "5c6e4e6cb465f5ff47001s0e";
+
     private String mLogPath;
     @Override
     protected void attachBaseContext(Context base) {
@@ -36,28 +37,14 @@ public class MutiApplication extends Application {
     public void onCreate() {
         super.onCreate();
         QupaiHttpFinal.getInstance().initOkHttpFinal();
-        AlivcSdkCore.register(getApplicationContext());
-        AlivcSdkCore.setLogLevel(AlivcSdkCore.AlivcLogLevel.AlivcLogWarn);
-        AlivcSdkCore.setDebugLoggerLevel(AlivcSdkCore.AlivcDebugLoggerLevel.AlivcDLClose);
-        if (TextUtils.isEmpty(mLogPath)){
-            //保证每次运行app生成一个新的日志文件
-            long time = System.currentTimeMillis();
-            mLogPath = getExternalFilesDir("Log").getAbsolutePath()+"/log_"+time+".log";
-            AlivcSdkCore.setLogPath(mLogPath);
-        }
-        /**
-         * 注意: 即使您已经在AndroidManifest.xml中配置过appkey和channel值，也需要在App代码中调
-         * 用初始化接口（如需要使用AndroidManifest.xml中配置好的appkey和channel值，
-         * UMConfigure.init调用中appkey和channel参数请置为null）。
-         */
-        UMConfigure.init(this, UM_APP_KEY, "Aliyun", UMConfigure.DEVICE_TYPE_PHONE, null);
-        // 选用AUTO页面采集模式
-        MobclickAgent.setPageCollectionMode(MobclickAgent.PageMode.AUTO);
 
-        
-        
+//        AlivcSdkCore.register(getApplicationContext()); // 注册啥？
+//        AlivcSdkCore.setLogLevel(AlivcSdkCore.AlivcLogLevel.AlivcLogWarn);
+//        AlivcSdkCore.setDebugLoggerLevel(AlivcSdkCore.AlivcDebugLoggerLevel.AlivcDLClose);
 
-        EffectService.setAppInfo(getResources().getString(R.string.app_name), getPackageName(), BuildConfig.VERSION_NAME, BuildConfig.VERSION_CODE);
+
+
+//        EffectService.setAppInfo(getResources().getString(R.string.app_name), getPackageName(), BuildConfig.VERSION_NAME, BuildConfig.VERSION_CODE);
     }
 
 

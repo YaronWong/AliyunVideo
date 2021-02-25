@@ -4,14 +4,12 @@
     <string name="alivc_snap_resolution_480p">480p</string>
     <string name="alivc_snap_resolution_540p">540p</string>
     <string name="alivc_snap_resolution_720p">720p</string>
-    <string name="alivc_snap_quality_median1">Medium</string>
     <string name="alivc_snap_quality_high">High</string>
     <string name="alivc_snap_quality_super">Highest</string>
     <string name="alivc_snap_crop_ratio_1_1">1:1</string>
     <string name="alivc_snap_crop_ratio_9_16">9:16</string>
     <string name="alivc_snap_crop_ratio_3_4">3:4</string>
     <string name="alivc_snap_start_record">Record</string>
-    <string name="alivc_snap_record_setting">Record Settings</string>
     <string name="alivc_snap_min_record_duration">Minimum Length</string>
     <string name="alivc_snap_max_record_duration">Maximum Length</string>
     <string name="alivc_snap_min_record_duration_hint">Default: 2 seconds. The minimum length must be greater than 0.</string>

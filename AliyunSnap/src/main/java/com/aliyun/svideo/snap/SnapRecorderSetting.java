@@ -30,6 +30,7 @@ import com.aliyun.svideo.common.utils.FastClickUtil;
 import java.io.File;
 
 /**
+ *  视频拍摄参数
  * Created by Administrator on 2017/3/2.
  */
 

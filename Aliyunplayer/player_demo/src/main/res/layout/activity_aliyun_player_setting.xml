@@ -213,7 +213,6 @@
                             android:text="@string/alivc_player_setting_decode_type_soft" />
 
                         <RadioButton
-                            android:id="@+id/radio_btn_decode_hard"
                             style="@style/AliPlayerSettingRadioButton"
                             android:layout_width="0dp"
                             android:layout_height="@dimen/alivc_common_height_group_36"
@@ -295,7 +294,6 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/tv_play_rotation"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="@dimen/alivc_common_margin_16"
@@ -391,7 +389,6 @@
                         android:weightSum="3">
 
                         <RadioButton
-                            android:id="@+id/radio_btn_auto_close"
                             style="@style/AliPlayerSettingRadioButton"
                             android:layout_width="0dp"
                             android:layout_height="@dimen/alivc_common_height_group_36"
@@ -439,7 +436,6 @@
                         android:weightSum="3">
 
                         <RadioButton
-                            android:id="@+id/radio_btn_seek_inaccurate"
                             style="@style/AliPlayerSettingRadioButton"
                             android:layout_width="0dp"
                             android:layout_height="@dimen/alivc_common_height_group_36"
@@ -487,7 +483,6 @@
                         android:weightSum="3">
 
                         <RadioButton
-                            android:id="@+id/radio_btn_background_close"
                             style="@style/AliPlayerSettingRadioButton"
                             android:layout_width="0dp"
                             android:layout_height="@dimen/alivc_common_height_group_36"

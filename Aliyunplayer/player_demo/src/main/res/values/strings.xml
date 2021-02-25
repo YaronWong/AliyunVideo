@@ -3,18 +3,10 @@
 
     <string name="alivc_net_disable">No network is found. Check your network and try again</string>
 
-    <string name="alivc_download_delete">Delete</string>
-    <string name="prepare_download_item">To prepare download-item</string>
-    <string name="alivc_local_video_deleted">The video is deleted</string>
-
     <!--tab-->
-    <string name="alivc_tab_video_list">Videos</string>
 
     <string name="alivc_sd_card_permission">No permission to access the sdcard</string>
-    <string name="alivc_video_not_found">The resource does not exist or it is not downloaded</string>
     <string name="alivc_mts_xld_definition">Highest</string>
-
-    <string name="alivc_video_not_support_download">not support url download...</string>
 
     <string name="alivc_refresh_sts">Refresh Sts</string>
     <string name="alivc_refresh_with_vid">Refresh By Vid</string>
@@ -25,13 +17,11 @@
 
     <string name="alivc_player_cache_success">Cache Success</string>
     <string name="alivc_player_switch_to_software_video_decoder">Switch to SoftWareVideoDecoder</string>
-    <string name="alivc_player_rts_server_recoverr">RTS Server Recover</string>
     <string name="alivc_player_agree_camera_permission">You must agree the camera permission request before you use the code scan function</string>
 
     <!--播放设置-->
     <string name="alivc_player_type_title">Player Source</string>
     <string name="alivc_player_type_edit">Edit</string>
-    <string name="alivc_player_type_edit_finish">Finish</string>
     <string name="alivc_player_setting_title">Player Config</string>
     <string name="alivc_player_setting_play_type_default">Default</string>
     <string name="alivc_player_setting_play_type_url">URL</string>

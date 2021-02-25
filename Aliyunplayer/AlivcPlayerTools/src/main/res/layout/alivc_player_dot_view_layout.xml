@@ -6,7 +6,6 @@
     android:padding="@dimen/alivc_common_padding_10">
 
     <ImageView
-        android:id="@+id/view_dot"
         android:layout_width="@dimen/alivc_player_seekbar_height"
         android:layout_height="@dimen/alivc_player_seekbar_height"
         android:layout_centerInParent="true"

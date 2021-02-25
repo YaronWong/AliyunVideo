@@ -71,7 +71,6 @@
                 android:background="@color/alivc_common_bg_gray_bright" />
 
             <TextView
-                android:id="@+id/tv_action_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="@dimen/alivc_common_padding_5"
@@ -234,7 +233,6 @@
                 android:background="@color/alivc_common_bg_gray_bright" />
 
             <TextView
-                android:id="@+id/tv_scale_model_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:paddingLeft="@dimen/alivc_common_padding_5"
@@ -356,7 +354,6 @@
                 android:textColor="@color/alivc_speed_text_color_blue" />
 
             <RadioButton
-                android:id="@+id/rb_loop_close"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"

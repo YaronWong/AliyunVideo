@@ -8,8 +8,7 @@
     <FrameLayout
             android:layout_width="match_parent"
             android:background="@color/alivc_common_theme_primary"
-            android:layout_height="?android:attr/actionBarSize"
-            android:id="@+id/gallery_actionBar">
+            android:layout_height="?android:attr/actionBarSize">
 
         <ImageButton
                 android:id="@+id/gallery_closeBtn"
@@ -38,8 +37,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="@dimen/alivc_common_margin_4"
-                    android:id="@+id/gallery_drawer"
-                    android:src="@drawable/aliyun_media_gallery_drowdown_selector"/>
+                android:src="@drawable/aliyun_media_gallery_drowdown_selector"/>
         </LinearLayout>
 
     </FrameLayout>
@@ -50,8 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:background="@color/alivc_common_theme_primary"
-            android:id="@+id/gallery_container">
+            android:background="@color/alivc_common_theme_primary">
         <!--底部空出tab的高度-->
         <android.support.v7.widget.RecyclerView
                 android:layout_width="match_parent"

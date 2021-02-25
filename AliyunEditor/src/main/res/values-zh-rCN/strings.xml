@@ -1,11 +1,4 @@
 <resources>
-    <string name="edit_nav_edit">编辑</string>
-    <string name="edit_nav_save_and_share">保存／分享></string>
-    <string name="music_origin">原音</string>
-    <string name="my_music">我的音乐</string>
-    <string name="local_music">本地音乐</string>
-    <string name="timeline_curr_time">%1$02d:%2$02d</string>
-    <string name="empty_music">无音乐</string>
 
     <!--特效菜单栏-->
     <string name="alivc_editor_effect_filter">滤镜</string>
@@ -64,19 +57,10 @@
     <string name="alivc_editor_dialog_sound_robot">机器人</string>
     <string name="alivc_editor_dialog_sound_devil">大魔王</string>
     <string name="alivc_editor_dialog_sound_minions">小黄人</string>
-    <string name="alivc_editor_dialog_sound_new_robot">新机器人</string>
-    <string name="alivc_editor_dialog_sound_new_lolita">新萝莉</string>
-    <string name="alivc_editor_dialog_sound_new_uncle">新大叔</string>
-    <string name="alivc_editor_dialog_sound_howl">怒吼</string>
     <string name="alivc_editor_dialog_sound_dialect">方言</string>
 
     <string name="alivc_editor_dialog_animate_tittle">滤镜特效</string>
     <string name="alivc_editor_dialog_animate_revoke">撤销</string>
-    <string name="alivc_editor_dialog_animate_phantom">幻影</string>
-    <string name="alivc_editor_dialog_animate_ghosting">重影</string>
-    <string name="alivc_editor_dialog_animate_science_fiction">科幻</string>
-    <string name="alivc_editor_dialog_animate_jitter">抖动</string>
-    <string name="alivc_editor_dialog_animate_blur">朦胧</string>
     <string name="alivc_editor_dialog_animate_tip_applay">长按添加特效</string>
 
     <string name="alivc_editor_dialog_cover_tip_applay">滑动选择封面</string>
@@ -158,37 +142,7 @@
     <!--end-->
 
     <!--媒体选择页面-->
-    <string name="alivc_editor_media_tip_no_permission">没有权限</string>
     <!--end-->
-
-    <string name="alivc_svideo_grace">优雅</string>
-    <string name="alivc_svideo_halo">光圈</string>
-    <string name="alivc_svideo_memory">思念</string>
-    <string name="alivc_svideo_sunday">朝阳</string>
-    <string name="alivc_svideo_bright">柔柔</string>
-    <string name="alivc_svideo_pop">波普</string>
-    <string name="alivc_svideo_hot_desert">浓烈</string>
-    <string name="alivc_svideo_beach">海盐</string>
-    <string name="alivc_svideo_ocean">海蓝</string>
-    <string name="alivc_svideo_gray">灰白</string>
-    <string name="alivc_svideo_yellow">炽黄</string>
-    <string name="alivc_svideo_brown">焦黄</string>
-    <string name="alivc_svideo_pink">粉桃</string>
-    <string name="alivc_svideo_sketch">素描</string>
-    <string name="alivc_svideo_ruby">红润</string>
-    <string name="alivc_svideo_classic">经典</string>
-    <string name="alivc_svideo_film">胶片</string>
-    <string name="alivc_svideo_blues">蓝调</string>
-    <string name="alivc_svideo_haze">迷糊</string>
-    <string name="alivc_svideo_charming">闪耀</string>
-    <string name="alivc_svideo_summertime">阳光</string>
-    <string name="alivc_svideo_pear">雪梨</string>
-    <string name="alivc_svideo_mosaic">马赛克</string>
-    <string name="alivc_svideo_fisheye">鱼眼</string>
-    <string name="alivc_svideo_fresh">鲜果</string>
-    <string name="alivc_svideo_wheat">麦茶</string>
-    <string name="alivc_svideo_black_white">黑白</string>
-    <string name="alivc_svideo_blurry">模糊</string>
 
 
 </resources>

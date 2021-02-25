@@ -9,8 +9,7 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:background="@color/alivc_common_theme_primary"
-        android:layout_height="?android:attr/actionBarSize"
-        android:id="@+id/gallery_actionBar">
+        android:layout_height="?android:attr/actionBarSize">
 
         <ImageButton
             android:id="@+id/ib_back"

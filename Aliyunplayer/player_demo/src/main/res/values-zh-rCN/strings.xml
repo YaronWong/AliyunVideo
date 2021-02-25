@@ -3,18 +3,10 @@
 
     <string name="alivc_net_disable">无网络连接，检查网络后点击重新播放</string>
 
-    <string name="alivc_download_delete">删除</string>
-    <string name="prepare_download_item">准备可下载项</string>
-    <string name="alivc_local_video_deleted">视频已删除</string>
-
     <!--tab-->
-    <string name="alivc_tab_video_list">视频列表</string>
 
 
     <string name="alivc_sd_card_permission">没有sd卡读写权限, 无法下载</string>
-    <string name="alivc_video_not_found">视频资源不存在</string>
-
-    <string name="alivc_video_not_support_download">此类型的视频不支持下载</string>
 
     <string name="alivc_refresh_sts">刷新Sts信息</string>
     <string name="alivc_refresh_with_vid">根据vid刷新鉴权信息</string>
@@ -25,13 +17,11 @@
 
     <string name="alivc_player_cache_success">缓存成功</string>
     <string name="alivc_player_switch_to_software_video_decoder">切换到软解</string>
-    <string name="alivc_player_rts_server_recoverr">RTS Server 恢复</string>
     <string name="alivc_player_agree_camera_permission">请同意相机权限</string>
 
     <!--播放设置-->
     <string name="alivc_player_type_title">播放源</string>
     <string name="alivc_player_type_edit">编辑</string>
-    <string name="alivc_player_type_edit_finish">完成</string>
     <string name="alivc_player_setting_title">播放设置</string>
     <string name="alivc_player_setting_play_type_default">默认</string>
     <string name="alivc_player_setting_play_type_url">URL</string>

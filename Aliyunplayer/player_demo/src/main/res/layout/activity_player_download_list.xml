@@ -23,7 +23,6 @@
             android:overScrollMode="never"/>
 
         <TextView
-            android:id="@+id/alivc_not_cache_video"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"

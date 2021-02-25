@@ -4,12 +4,8 @@
     <string name="alivc_base_version">SDK版本信息</string>
     <!-- 美颜相关  start -->
     <string name="alivc_base_beauty">美颜</string>
-    <string name="alivc_base_beauty_face">美肌</string>
     <string name="alivc_base_beauty_shape">美型</string>
     <string name="alivc_base_fine_tune">微调</string>
-    <string name="alivc_base_stickers">人脸贴纸</string>
-    <string name="alivc_base_filter">滤镜</string>
-    <string name="alivc_record_anim_filter">动效滤镜</string>
 
     <string name="alivc_base_beauty_buffing">磨皮</string>
     <string name="alivc_base_beauty_whitening">美白</string>
@@ -49,5 +45,4 @@
     <string name="alivc_base_beauty_race_copyright">高级美颜美型由race提供</string>
     <string name="alivc_base_beauty_copyright_link">如何获取</string>
     <string name="alivc_base_svideo_next">下一步</string>
-    <string name="alivc_base_svideo_save">保存</string>
 </resources>

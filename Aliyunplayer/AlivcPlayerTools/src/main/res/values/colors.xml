@@ -16,9 +16,6 @@
     <color name="alivc_player_color_gray_danmu_bg">#444546</color>
     <color name="alivc_player_color_gray_danmu_et_bg">#323233</color>
 
-    <color name="add_download_info_background">#373d41</color>
-    <color name="alivc_player_list_item_press">#2d3342</color>
-
     <color name="alivc_player_bg_action_list_dialog">#1e2321</color>
     <color name="alivc_player_font_speed_blue">#379DF2</color>
 

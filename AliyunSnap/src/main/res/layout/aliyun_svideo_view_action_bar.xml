@@ -19,7 +19,6 @@
             android:layout_centerVertical="true"
             />
         <TextView
-            android:id="@+id/aliyun_actionbar_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"

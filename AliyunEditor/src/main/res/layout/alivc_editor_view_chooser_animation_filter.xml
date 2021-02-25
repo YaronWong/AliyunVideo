@@ -22,7 +22,6 @@
         android:layout_marginTop="@dimen/alivc_common_margin_10"/>
 
     <TextView
-        android:id="@+id/alivc_svideo_tip"
         android:layout_width="match_parent"
         android:text="@string/alivc_editor_dialog_animate_tip_applay"
         android:textColor="@color/alivc_common_font_white"

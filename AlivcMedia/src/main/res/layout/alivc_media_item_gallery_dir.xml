@@ -29,7 +29,6 @@
             android:layout_marginLeft="@dimen/alivc_common_margin_8" />
 
         <TextView
-            android:id="@+id/video_left_brachet"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
@@ -47,7 +46,6 @@
             android:textColor="@color/alivc_common_font_white" />
 
         <TextView
-            android:id="@+id/video_right_brachet"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"

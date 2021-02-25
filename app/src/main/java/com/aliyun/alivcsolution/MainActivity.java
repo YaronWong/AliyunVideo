@@ -26,6 +26,8 @@ import com.aliyun.alivcsolution.model.ScenesModel;
 import com.aliyun.svideo.base.ui.SdkVersionActivity;
 import com.aliyun.svideo.common.utils.FastClickUtil;
 import com.aliyun.svideo.common.utils.PermissionUtils;
+import com.aliyun.svideo.snap.SnapCropSetting;
+import com.aliyun.svideo.snap.SnapRecorderSetting;
 import com.aliyun.vodplayerview.activity.AliyunPlayerSettingActivity;
 
 import java.util.ArrayList;
@@ -222,7 +224,7 @@ public class MainActivity extends AppCompatActivity {
                             if (!FastClickUtil.isFastClickActivity(ACTIVITY_NAME_RECORD)) {
                                 // 视频拍摄
                                 Intent recorder = new Intent();
-                                recorder.setClassName(MainActivity.this, ACTIVITY_NAME_RECORD);
+                                recorder.setClass(MainActivity.this, SnapRecorderSetting.class);
                                 startActivity(recorder);
                             }
                             break;
@@ -231,9 +233,10 @@ public class MainActivity extends AppCompatActivity {
                             if (!FastClickUtil.isFastClickActivity(ACTIVITY_NAME_SNAP)) {
                                 // 视频裁剪
                                 Intent crop = new Intent();
-                                crop.setClassName(MainActivity.this, ACTIVITY_NAME_SNAP);
+                                crop.setClass(MainActivity.this, SnapCropSetting.class);
                                 startActivity(crop);
                             }
+                            break;
                         case 2:
                             if (!FastClickUtil.isFastClickActivity(ACTIVITY_NAME_SNAP)) {
                                 // 视频编辑

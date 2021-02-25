@@ -24,7 +24,6 @@
         android:overScrollMode="never"
         android:layout_height="@dimen/alivc_editor_size_effect_list_view"/>
     <RelativeLayout
-        android:id="@+id/effect_sound_list_dismiss"
         android:layout_width="match_parent"
         android:layout_height="@dimen/alivc_common_height_group_30"
         android:background="@color/alivc_common_theme_primary_dark"
