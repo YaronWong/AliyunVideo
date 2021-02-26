@@ -1,7 +1,6 @@
 include ':Aliyunplayer:AlivcPlayerTools'
 include ':AliyunPlayerBase'
 include ':Aliyunplayer:player_demo'
-//include ':zxing'
 include ':AliyunEditor'
 include ':AliyunFileDownLoader'
 include ':AliyunSvideoMusic'
